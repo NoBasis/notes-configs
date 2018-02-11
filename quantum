@@ -1,0 +1,20 @@
+about:config
+
+toggle:
+extensions.pocket.enabled
+browser.tabs.closeWindowWithLastTab
+browser.search.openintab
+
+
+Addons:
+
+Cookie AutoDelete
+Decentraleyes
+Flagfox
+HTTPS Everywhere
+KeePassHTTP-Connector
+Privacy Badger
+uBlock Origin
+YouTube Video and Audio Downloader (Dev. Edt.)
+* NoScript / uMatrix
+
