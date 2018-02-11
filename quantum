@@ -18,3 +18,13 @@ uBlock Origin
 YouTube Video and Audio Downloader (Dev. Edt.)
 * NoScript / uMatrix
 
+
+To hide "other booksmarks":
+
+Firefox profile folder ( asdf.default )
+create "chrome" folder
+create "userChrome.css" with the following 3 lines
+          @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* only needed once */
+          #menu_unsortedBookmarks { display: none !important; }
+          #BMB_unsortedBookmarks { display: none !important; }
+
