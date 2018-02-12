@@ -4,6 +4,8 @@ toggle:
 extensions.pocket.enabled
 browser.tabs.closeWindowWithLastTab
 browser.search.openintab
+browser.urlbar.clickSelectsAll
+browser.urlbar.doubleClickSelectsAll
 
 
 Addons:
