@@ -22,6 +22,14 @@ sudo add-apt-repository -r ppa:dawidd0811/neofetch
 sudo apt-get update
 
 
+TOR
+sudo add-apt-repository ppa:webupd8team/tor-browser
+sudo apt-get update
+sudo apt-get install tor-browser
+sudo add-apt-repository -r ppa:webupd8team/tor-browser
+sudo apt-get update
+
+
 Xenial SSH
 sudo apt-get install openssh-server
 sudo service ssh status
